@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Errors due to TBC, mechanics, and tape damage have been addressed to best of our ability.</td>
-    <td>See Issues and Diagnosis chart below.</td>
+    <td>See Issues and Diagnosis chart.</td>
   </tr>
   <tr>
     <td>Filename is correct.</td>
