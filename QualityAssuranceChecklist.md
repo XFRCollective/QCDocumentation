@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td>**Quality**</td>
-    <td>**Method**</td>
+    <td>** Quality **</td>
+    <td>** Method **</td>
   </tr>
   <tr>
     <td>File opens and plays.</td>
